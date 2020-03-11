@@ -20,6 +20,8 @@ namespace Cousertime
 
             Console.WriteLine(d4);
             Console.WriteLine(d5);
+            Console.WriteLine("boa noite");
+
 
             Console.ReadLine();
 
